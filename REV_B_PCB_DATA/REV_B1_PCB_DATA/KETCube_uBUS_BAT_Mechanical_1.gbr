@@ -1,0 +1,21 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,18.1.6 (161)*%
+G04 Layer_Color=16711935*
+%FSLAX26Y26*%
+%MOIN*%
+%TF.FileFunction,Other,PCB_Outline*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,NonConductor*%
+%ADD23C,0.003937*%
+D23*
+X1259842Y-0D02*
+Y1259842D01*
+X0D02*
+X1259842D01*
+X0Y0D02*
+Y1259842D01*
+Y0D02*
+X1259842Y-0D01*
+%TF.MD5,e955e2bb09d880cea8ba26620d646c14*%
+M02*

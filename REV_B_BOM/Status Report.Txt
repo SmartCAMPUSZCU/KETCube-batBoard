@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:32:38 On 02.05.2018
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Basic] of Project [KETCube_uBus_BAT.PrjPcb]
+   Generated File[KETCube_B_1805_B1_Basic.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:33:08 On 02.05.2018
